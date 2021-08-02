@@ -14,7 +14,7 @@ Feito com ❤️ por Matheus Tirabassi 👋🏽 Entre em contato!
 <img alt="GitHub followers" url = "https://github.com/matheustirabassi" src="https://img.shields.io/github/followers/matheustirabassi?style=social">
 
 ## Sobre mim
-Sou estudante do 5º período curso de Ciência da Computação, uso Java, JavaScript, C/C++ e Python nas minhas aplicações. Atualmente estou modelando uma de Clinica médica com UML com linguagem Java e banco de dados relacional MySQL. Já participei de um projeto de iniciação científica na área de realidade aumentada usando tecnologias Unity Engine+Vuforia e da maratona de programação da SBC. 
+Sou estudante do 6º período curso de Ciência da Computação, uso Java, JavaScript, C/C++ e Python nas minhas aplicações. Atualmente estou modelando uma de Clinica médica com UML com linguagem Java e banco de dados relacional MySQL. Já participei de um projeto de iniciação científica na área de realidade aumentada usando tecnologias Unity Engine+Vuforia e da maratona de programação da SBC. 
 
 <!--
 **matheustirabassi/matheustirabassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
